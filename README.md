@@ -1,5 +1,7 @@
 # go-rgba4444
 
+[![Build Status](https://travis-ci.org/shogo82148/go-rgba4444.svg?branch=master)](https://travis-ci.org/shogo82148/go-rgba4444)
+
 go-rgba4444 represents RGBA4444 format images.
 RGBA4444 format is often used for textures of [Unity](http://unity3d.com/).
 
